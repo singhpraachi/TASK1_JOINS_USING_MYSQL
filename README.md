@@ -1,6 +1,13 @@
 
 # SQL JOIN Practice — Internship Task
 
+Company: CODTECH IT SOLUTIONS PVT. LTD.
+Name: PRAACHI SINGH
+Intern ID: CT04DH2285
+Domain: SQL
+Duration: 4 Weeks
+Mentor: NEELA SANTOSH
+
 This repository contains my internship assignment for demonstrating SQL JOIN operations using two relational tables: `Employees` and `Departments`. This is part of the **CODTECH Internship Program**.
 
 ---
@@ -31,25 +38,23 @@ Each department has:
 - A Department name
 
 ---
-
 # JOIN Operations Performed
 
 # INNER JOIN
 Returns only the employees with matching department IDs in both tables.
 
-
-# 🔸 LEFT JOIN
+# LEFT JOIN
 Returns all employees, with NULLs where no matching department exists.
 
-# 🔸 RIGHT JOIN
+# RIGHT JOIN
 Returns all departments, with NULLs where no employee is assigned.
 
-# 🔸 FULL OUTER JOIN (via UNION)
+# FULL OUTER JOIN (via UNION)
 Combines LEFT and RIGHT JOIN to return all records from both tables.
 
 
 
-#How to Run
+# How to Run
 
 1. Clone this repository
 2. Open the `TASK1.sql` file in MySQL Workbench or any SQL IDE
@@ -58,21 +63,19 @@ Combines LEFT and RIGHT JOIN to return all records from both tables.
 
 
 
-## 💡 Learning Outcome
+# Learning Outcome
 
 - Mastery of SQL JOINs
 - Understanding NULL handling in joins
 - Practical data merging scenarios
 - Foundational step for data analytics and reporting
 
+#  About Me
 
-
-## 🙋‍♂️ About Me
-
-👨‍💻 PRAACH  
-🎓 INFORMATION SCIENCE STUDENT 
-📈 Aspiring Data Analyst  
-🌟 Internship Trainee @ CODTECH
+- PRAACHI SINGH 
+- INFORMATION SCIENCE STUDENT 
+- Aspiring Data Analyst  
+- Internship Trainee @ CODTECH
 
 ---
 
