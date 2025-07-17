@@ -37,6 +37,7 @@ Each department has:
 # INNER JOIN
 Returns only the employees with matching department IDs in both tables.
 
+
 # 🔸 LEFT JOIN
 Returns all employees, with NULLs where no matching department exists.
 
